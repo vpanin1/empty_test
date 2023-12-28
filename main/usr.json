@@ -1,0 +1,25 @@
+{
+	"version": "2023.09.22",
+	"settings": {
+		"project": {
+			"title": "Пустой проект"
+		}
+	},
+	"securityPolicies": {
+		"appGroup": {
+			"name": "TestApp"
+		},
+		"auth": [],
+		"users": [],
+		"groups": [],
+		"roles": [],
+		"privileges": [],
+		"dataPolicies": []
+	},
+	"menus": [],
+	"sequenses": [],
+	"types": [],
+	"tables": [],
+	"shadowTasks": []
+}
+
